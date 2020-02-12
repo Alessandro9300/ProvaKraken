@@ -1,0 +1,50 @@
+*{
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div{
+  width: 1200px;
+  margin:auto;
+
+  height: 1200px;
+}
+
+header{
+width: auto;
+height: 300px;
+border: solid 3px black;
+
+
+}
+
+
+footer{
+
+  width: auto;
+  height: 300px;
+  border: solid 3px black;
+
+
+}
+section{
+
+ width: 800px;
+ margin:auto;
+
+
+
+
+
+
+}
+h1{
+font-size: 60px;
+height: 600px;
+vertical-align: bottom;
+line-height: 600px;
+
+
+}
